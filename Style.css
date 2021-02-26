@@ -1,0 +1,23 @@
+h1{
+    color: seagreen;
+    background-color: deeppink;
+}
+
+h2{
+    font-family: "Arial Narrow";
+    font-size: 35px;
+
+}
+
+h3{
+    color: darkcyan;
+    background-color: yellow;
+    padding: 35px;
+    margin-left: fill ;
+}
+
+p{
+    color: yellowgreen;
+    text-align: center;
+    font-size: 18px;
+}

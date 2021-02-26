@@ -1,0 +1,21 @@
+body{
+    background-color: blue;
+}
+h1 {
+    color: brown;
+}
+h2 {
+    color: lawngreen;
+}
+h3  {
+    color: blueviolet;
+    font-family: Algerian;
+}
+p{
+    font-size: 20px;
+    color: aqua;
+    font-family: "Arial Narrow";
+}
+a{
+    color: deeppink;
+}
